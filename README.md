@@ -146,6 +146,3 @@ Pool de conexiones a MySQL para optimizar rendimiento y gestionar recursos.
 - Todas las operaciones incluyen manejo de excepciones
 - Las pruebas son no destructivas (limpian datos de prueba)
 
-## 🤝 Contribuciones
-
-Este es un proyecto educativo del curso "Python 93 horas".
